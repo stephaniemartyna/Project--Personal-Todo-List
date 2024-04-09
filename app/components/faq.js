@@ -19,7 +19,7 @@ const FAQ = () => {
     },
     {
       id: 3,
-      question: "What can I do with Material Tailwind?",
+      question: "Do you offer different lengths of appointments?",
       answer: "Absolutely! We offer both 30 and 90-minute massage sessions to cater to your individual preferences and scheduling needs. To arrange for a specific duration, kindly reach out to us directly to make your request. We understand that everyone has unique requirements, and we're here to accommodate your preferences for a tailored and enjoyable massage experience. Feel free to contact us, and we'll be happy to assist you in scheduling the perfect massage session for you.",
     },
     {
